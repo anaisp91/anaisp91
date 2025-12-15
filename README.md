@@ -8,7 +8,6 @@
 
 Después de varios años trabajando de cara al público, decidí dar un giro importante a mi carrera profesional y adentrarme en el mundo de la tecnología. Vengo del ámbito artístico, lo que me aporta una mirada creativa, habilidades de comunicación y un enfoque orientado a la resolución de problemas.
 
-Actualmente estoy finalizando un bootcamp intensivo de Desarrollo Full Stack + Ciberseguridad y me encuentro buscando activamente nuevas oportunidades para seguir creciendo, aprendiendo y aportar valor en proyectos con propósito.
 
 🎓 Formación
 
